@@ -3,7 +3,7 @@ public class DemoClass {
 
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to  Jenkins modified")
+		System.out.println("Welcome to  Jenkins modified");
 	}
 
 }
